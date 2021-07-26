@@ -48,3 +48,5 @@ while True:
     print('Choice registered!')
 
 print("Done!")
+
+print("Welcome to github")
